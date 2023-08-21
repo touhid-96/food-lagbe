@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TechGiant Pro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">info.techgiant.pro@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="foodlagbe">FoodLagbe</string>
+    <string name="go_4_food">Go 4 Food</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="go_4_food1">Go 4 Food</string>
+    <string name="foodlagbee">FoodLagbe</string>
+    <string name="registerr">Register</string>
+    <string name="email_address">Email</string>
+    <string name="password">Password</string>
+    <string name="loginn">Login</string>
+    <string name="register1">Register</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="register2">Register</string>
+    <string name="daily_meal">My Package</string>
+    <string name="favourite">Favourite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_chart">Cart</string>
+    <string name="_10_00am_10_00pm">Preview</string>
+    <string name="product_name">Product Name</string>
+    <string name="_5_0">5.0</string>
+    <string name="name">Name</string>
+
+    <string name="copyright">© 2023 All right reserved by TechGiant Pro</string>
+    <string name="moto">Customer satisfaction is our main profit</string>
+</resources>

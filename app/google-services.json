@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976853412458",
+    "firebase_url": "https://foodlagbe-2810e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "foodlagbe-2810e",
+    "storage_bucket": "foodlagbe-2810e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976853412458:android:254dc294eff7a6bf6af813",
+        "android_client_info": {
+          "package_name": "com.example.foodlagbe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976853412458-n1v1rlj0umt3af9oq32kce7p03ep2sr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfyFtNZIaKXpRYLEh3-vpb6rdQZg4XF58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976853412458-n1v1rlj0umt3af9oq32kce7p03ep2sr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
